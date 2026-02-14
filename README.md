@@ -11,6 +11,19 @@ Built with React and styled with a nostalgic "Windows 95" and pixel-art aestheti
 📸 Screenshots
 <img width="2880" height="1300" alt="image" src="https://github.com/user-attachments/assets/2055c57c-65e1-475e-83f4-b2b28237d249" />
 
+<img width="2880" height="1301" alt="image" src="https://github.com/user-attachments/assets/11dbfbd7-4dd6-42c5-9c20-77a3ee7eb218" />
+
+<img width="2880" height="1295" alt="image" src="https://github.com/user-attachments/assets/f7ac9f3a-59ff-4f2d-b4fd-df6bb8a159aa" />
+
+<img width="2880" height="1296" alt="image" src="https://github.com/user-attachments/assets/c3f75ddc-f3f1-41f8-898c-5ef5285442f7" />
+
+<img width="2880" height="1301" alt="image" src="https://github.com/user-attachments/assets/7b9e08e3-423d-4461-9409-19e1f6860960" />
+
+<img width="2880" height="1295" alt="image" src="https://github.com/user-attachments/assets/4dacd884-6af1-46a2-bb40-69891c134f2d" />
+
+<img width="2880" height="1297" alt="image" src="https://github.com/user-attachments/assets/859ee746-8952-4e6a-b643-46359818488c" />
+
+
 🎥 Demo Video
 https://drive.google.com/file/d/1oy7aGf3UzGMWWWMYkxHkue2OKADe62QJ/view?usp=drive_link
 
