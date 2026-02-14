@@ -1,12 +1,37 @@
-# React + Vite
+# 💾 Insufficient Funds
+> **"A survival horror game where the monster is your rent."**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Live Deployment:** :  https://budget-three-ashy.vercel.app/
 
-Currently, two official plugins are available:
+## 📝 Project Description
+**Insufficient Funds** is a retro-themed, web-based survival game that turns the real-world stress of budgeting into an arcade-style challenge. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Built with React and styled with a nostalgic "Windows 95" and pixel-art aesthetic, the app challenges players to pick a career, select a city, and survive a 30-day month. Players must manage their monthly salary—represented as a classic video game "health bar"—by fighting off relentless "expense attacks" like rent, groceries, and sudden bills. To keep from going under, players can also take on "sidequests"—quick, interactive minigames that allow them to grind for extra income and keep their budget afloat until payday.
 
-## Expanding the ESLint configuration
+## 💻 Tech Stack
+* **Frontend Framework:** React 19
+* **Build Tool:** Vite 6
+* **Styling:** Tailwind CSS (with custom OS theme config)
+* **Fonts:** Pixelify Sans, Inter
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+* **Character Creation:** Choose an avatar, name your character, and set your starting life scenario.
+* **City Challenge Mode:** Select a starting city; the game dynamically fetches the cost of living to adjust difficulty.
+* **Monthly Survival Simulator:** Drag and drop payments to defeat "Expense Attacks" while defending your health/budget bar.
+* **Sidequests (Minigames):** Play quick interactive minigames to earn extra cash and boost your survival odds.
+* **Retro OS Interface:** A fully immersive desktop experience with movable application windows, a functional taskbar, CRT monitor effects, and custom sounds.
+* **Achievement System:** Unlock badges based on your financial performance (e.g., 🏆 "Thriving", 🍜 "Ramen Champion", 💀 "Went into Debt").
+
+## 🚀 Installation
+
+To get this project running on your local machine, clone the repository and install the dependencies:
+
+```bash
+# Clone the repository
+git clone [https://github.com/yourusername/insufficient-funds.git](https://github.com/yourusername/insufficient-funds.git)
+
+# Navigate into the project directory
+cd insufficient-funds
+
+# Install dependencies
+npm install
