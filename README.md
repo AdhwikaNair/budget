@@ -8,6 +8,13 @@
 
 Built with React and styled with a nostalgic "Windows 95" and pixel-art aesthetic, the app challenges players to pick a career, select a city, and survive a 30-day month. Players must manage their monthly salary—represented as a classic video game "health bar"—by fighting off relentless "expense attacks" like rent, groceries, and sudden bills. To keep from going under, players can also take on "sidequests"—quick, interactive minigames that allow them to grind for extra income and keep their budget afloat until payday.
 
+📸 Screenshots
+<img width="2880" height="1300" alt="image" src="https://github.com/user-attachments/assets/2055c57c-65e1-475e-83f4-b2b28237d249" />
+
+🎥 Demo Video
+https://drive.google.com/file/d/1oy7aGf3UzGMWWWMYkxHkue2OKADe62QJ/view?usp=drive_link
+
+
 ## 💻 Tech Stack
 * **Frontend Framework:** React 19
 * **Build Tool:** Vite 6
